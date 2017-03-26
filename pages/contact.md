@@ -1,5 +1,6 @@
 ---
 layout: page
+skip_boilerplate: true
 title: "Contact"
 meta_title: "Contact Us"
 subheadline: ""
@@ -7,9 +8,24 @@ teaser: ""
 permalink: "/contact/"
 ---
 
-- [Wufoo][1]
-- [Google Forms][2]
+<div id="wufoo-z9hr1zv1a7vkfz">
+Fill out my <a href="https://camelworksinc.wufoo.com/forms/z9hr1zv1a7vkfz">online form</a>.
+</div>
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Online contact and registration forms from <a href="http://www.wufoo.com">Wufoo</a>.</div>
+<script type="text/javascript">var z9hr1zv1a7vkfz;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'camelworksinc',
+'formHash':'z9hr1zv1a7vkfz',
+'autoResize':true,
+'height':'517',
+'async':true,
+'host':'wufoo.com',
+'header':'show',
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { z9hr1zv1a7vkfz = new WufooForm();z9hr1zv1a7vkfz.initialize(options);z9hr1zv1a7vkfz.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
 
-
- [1]: http://www.wufoo.com/
- [2]: https://www.google.com/intl/de_de/forms/about/
