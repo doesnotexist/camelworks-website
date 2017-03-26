@@ -16,7 +16,7 @@ tags:
 image:
   header: ""
   thumb: "prop-plane.png"
-  homepage: "camel-header.png"
+  homepage: "camel-header.jpg"
   caption: "MAin content goes here"
   url: "https://camel.works/"
 ---
