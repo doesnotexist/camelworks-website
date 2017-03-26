@@ -5,9 +5,10 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+skip_boilerplate: true
 header:
   image_fullwidth: camel-header.jpg
-widget1:
+<!-- widget1:
   title: "Widget 1"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
@@ -21,7 +22,7 @@ widget3:
   title: "Widget 3"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  text: '' -->
 #
 # Use the call for action to show a button on the frontpage
 #
