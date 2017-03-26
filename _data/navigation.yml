@@ -16,12 +16,12 @@
   - title: "Dropdown Menu 3"
     url: "#"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
