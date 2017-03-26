@@ -1,6 +1,8 @@
 ---
 layout: page
 skip_boilerplate: true
+header:
+  image_fullwidth: camel-header.jpg
 title: "Contact"
 meta_title: "Contact Us"
 subheadline: ""
