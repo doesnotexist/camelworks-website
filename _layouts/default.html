@@ -1,18 +1,18 @@
----
-layout: compress
----
-<!doctype html>
-<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
-<head>
-	{% include _head.html %}
-</head>
-<body id="top-of-page" class="{{ layout.format }}">
-	{% include _masthead.html %}
+<!DOCTYPE html>
+<html lang="en-us">
+  
+  {% include head.html %}
 
-	{{ content }}
+  <body>
+    {% include page-header.html %}
 
-	{% include _footer.html %}
+    <section class="main-content">
+      
+      {{ content }}
 
-	{% include _footer_scripts.html %}
-</body>
+      {% include page-footer.html %}
+
+    </section>
+
+  </body>
 </html>
